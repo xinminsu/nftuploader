@@ -1,4 +1,4 @@
-# Decentratwitter
+# Nftuploader
 
 ## Technology Stack & Tools
 
@@ -18,12 +18,12 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd decentratwitter
+$ cd nftuploader
 $ npm install
 ```
 ### 3. Boot up local development blockchain
 ```
-$ cd decentratwitter
+$ cd nftuploader
 $ npx hardhat node
 ```
 
